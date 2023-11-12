@@ -1,0 +1,2 @@
+# Grafana-sample
+dahsbord grafana 
